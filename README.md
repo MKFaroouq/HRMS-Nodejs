@@ -1,4 +1,4 @@
-🏢 HR Management System (Full-Stack)
+<b>🏢 HR Management System (Full-Stack)</b>
 A professional, full-stack web application designed to digitize and streamline core human resources operations. This system moves beyond basic CRUD by implementing real-world HR workflows, automatic calculations, and strict business rule enforcement.
 
 <b>🚀 Key Features</b>
