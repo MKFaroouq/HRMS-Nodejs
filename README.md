@@ -2,7 +2,6 @@
 A professional, full-stack web application designed to digitize and streamline core human resources operations. This system moves beyond basic CRUD by implementing real-world HR workflows, automatic calculations, and strict business rule enforcement.
 
 <b>🚀 Key Features</b>
-</hr>
 <br>
 • Employee Lifecycle Management: Create, track, and manage employee profiles, departments, and job positions.
 • Smart Leave Workflow: Multi-step approval system where employees submit requests and HR managers review with comments.
@@ -12,7 +11,6 @@ A professional, full-stack web application designed to digitize and streamline c
 • Interactive Dashboard: Visual summaries of total employees, pending leaves, and payroll stats.
 
 <b>🛠️ Technology Stack</b>
-</hr>
 <br>
 • The project follows a structured Layered Architecture to ensure maintainability:
 • Routes: API endpoints definition.
