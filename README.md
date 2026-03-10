@@ -1,7 +1,7 @@
 🏢 HR Management System (Full-Stack)
 A professional, full-stack web application designed to digitize and streamline core human resources operations. This system moves beyond basic CRUD by implementing real-world HR workflows, automatic calculations, and strict business rule enforcement.
 
-🚀 Key Features
+<b>🚀 Key Features</b>
 • Employee Lifecycle Management: Create, track, and manage employee profiles, departments, and job positions.
 • Smart Leave Workflow: Multi-step approval system where employees submit requests and HR managers review with comments.
 • Automatic Payroll Engine: System calculates net pay based on base salaries, deductions, and bonuses, generating monthly payslips.
